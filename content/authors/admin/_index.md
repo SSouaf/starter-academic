@@ -48,8 +48,8 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/salwa-souaf-03208812a/
 - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+  icon_pack: ai
+  link: media/resume.pdf
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
