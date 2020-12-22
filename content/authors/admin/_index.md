@@ -44,6 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/salwa-souaf-03208812a/
+- icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -53,16 +59,7 @@ social:
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/salwa-souaf-03208812a/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "salwa.souaf@contralesupelec.fr"
