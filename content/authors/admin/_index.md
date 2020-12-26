@@ -69,6 +69,7 @@ highlight_name: false
 ---
 
 ATER in [CentraleSupélec](http://www.rennes.centralesupelec.fr/), Rennes, France
+
 Member of [CIDRE](https://www.inria.fr/fr/cidre) research team
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
