@@ -26,7 +26,7 @@ experience:
     company: CentraleSupélec
     company_url: ''
     location: Rennes
-    date_start: '2019-10-01'
+    date_start: '2020-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,6 +39,6 @@ experience:
     company_url: ''
     location: Bourges, France & Flagstaff, AZ
     date_start: '2017-05-20'
-    date_end: '2019-12-15'
+    date_end: '2020-12-15'
     description: PhD in computer science and security.
 ---
