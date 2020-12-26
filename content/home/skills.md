@@ -16,26 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: java
+- icon: java
   icon_pack: fab
   name: Java
-- description: 
-  icon: python
+- icon: python
   icon_pack: fab
   name: Python
-- description: 
-  icon: coq
+- icon: coq
+  icon_pack: "custom"
   name: Coq
-- description: 
-  icon: alloy
+- icon: alloy
+  icon_pack: "custom"
   name: Alloy
-- description: 
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Statistics
 
