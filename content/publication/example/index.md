@@ -14,8 +14,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2018"
+doi: "10.1109/HPCS.2018.00113"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In International Conference on High Performance Computing & Simulation 
+publication_short: In HPCS
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cloud Computing has known in the past few years a fast development, leading to a spike in the number of companies competing on providing the best Cloud services. This makes it harder for potential Cloud customers to chose the adequate provider. Despite its wide adoption, many are still hesitant due to the security issues Cloud Computing poses. In this paper, we propose a brokerage solution that formalizes security properties under the form of inter-VM relations, and gives the possibility of setting these security requirements to its customers from the first steps. This solution uses formal methods and the finite model finder KodKod to verify the consistency of the customer's requirements, and to find a placement for his deployment model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/8514418'
 url_code: ''
 url_dataset: ''
 url_poster: ''
