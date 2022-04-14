@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Student
+    company: CEA List
+    company_url: ''
+    location: Gif-sur-Yvette, France
+    date_start: '2022-12-01'
+    date_end: ''
+    description: PostDoc in code security, part of the BinSec Team.
+    
   - title: ATER
     company: CentraleSupélec
     company_url: ''
     location: Rennes
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2021-10-01'
     description: |2-
         Responsibilities include:
         
