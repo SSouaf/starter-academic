@@ -6,12 +6,12 @@ title: Salwa SOUAF
 superuser: true
 
 # Role/position/tagline
-role: ATER
+role: PostDoc
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CentraleSupélec
-  url: https://www.centralesupelec.fr/en/
+- name: CEA List
+  url: http://www-list.cea.fr/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -19,6 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Infrotmation Security
+- Code Security
 - Formal Methods
 - Cloud Security
 - Cloud Brokerage
@@ -68,8 +69,8 @@ email: "salwa.souaf@contralesupelec.fr"
 highlight_name: false
 ---
 
-ATER in [CentraleSupélec](http://www.rennes.centralesupelec.fr/), Rennes, France
+PostDoc in [CEA List](http://www-list.cea.fr/), Gif-sur-Yvette, France
 
-Member of [CIDRE](https://www.inria.fr/fr/cidre) research team
+Member of [BINSEC](https://binsec.github.io/) research team
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
