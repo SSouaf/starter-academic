@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "salwa.souaf@centralesupelec.fr"
+email = "salwa.souaf@cea.fr"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Avenue de la Boulaie", city = "Cesson-Sévigné", region = "Ille-et-Vilaine", postcode = "35510", country = "France", country_code = "FR"}
+address = {street = "2 Bd Thomas Gobert", city = "Palaiseau", region = "Ile-de-France", postcode = "91120", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.12538197152451", longitude = "-1.6233690156601501"}
+coordinates = {latitude = "48.71310137124396", longitude = "2.1934227846593113"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
