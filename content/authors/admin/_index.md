@@ -63,14 +63,14 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "salwa.souaf@contralesupelec.fr"
+email: "salwa.souaf@quarkslab.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-PostDoc in [CEA List](http://www-list.cea.fr/), Gif-sur-Yvette, France
+R&D Coordinator at [Quarkslab](https://www.quarkslab.com/), Paris, France
 
-Member of [BINSEC](https://binsec.github.io/) research team
+Member of the R&D office team
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
