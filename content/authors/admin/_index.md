@@ -6,12 +6,12 @@ title: Salwa SOUAF
 superuser: true
 
 # Role/position/tagline
-role: PostDoc
+role: R&D Coordinator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CEA List
-  url: http://www-list.cea.fr/
+- name: Quarkslab
+  url: https://www.quarkslab.com/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
