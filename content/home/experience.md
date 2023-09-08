@@ -28,7 +28,7 @@ experience:
     location: Paris, France
     date_start: '2023-02-20'
     date_end: ''
-    description: PostDoc in code security, part of the BinSec Team.
+    description: Part of the R&D Office as an R&D coordinator.
 
   - title: PostDoc
     company: CEA List
