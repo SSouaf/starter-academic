@@ -63,7 +63,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "salwa.souaf@quarkslab.com"
+email: "ssouaf@quarkslab.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
