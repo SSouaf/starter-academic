@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Infrotmation Security
+- Information Security
 - Code Security
 - Formal Methods
 - Cloud Security
